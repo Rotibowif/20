@@ -1,0 +1,167 @@
+/* body */
+body {
+    background-color: #4168df75;
+    background-repeat: no-repeat;
+    margin: 20px 46px 0 40px;
+    background-repeat: repeat;
+    height: 1500px;
+    background-image: url(foto/konfeti2.png);
+    height: 1200px;
+}
+
+
+
+/* judul */
+.header {
+    display: flex;
+    padding-left: 5px;
+}
+
+.header img {
+    border-radius: 50%;
+    height: 60px;
+}
+
+.header .row {
+    margin-top: 5px;
+    margin-bottom: -15px;
+}
+
+.header span {
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    text-align: center;
+    color: rgb(4, 73, 78, 0.795);
+    padding: 10px 10px 0px 5px;
+}
+
+.header .row h3 {
+    margin-top: -1px;
+    margin-left: 5px;
+    color: rgb(4, 73, 78, 0.795);
+}
+
+.header .balon img {
+padding-left: 900px;
+    border-radius: 0%;
+    border-right: 15px;
+    
+}
+
+.header .cinamon img {
+    position: fixed;
+width: 180px;
+height: 180px;
+bottom: 0;
+right: 0;
+
+}
+
+/* Navbar */
+
+
+/* content */
+.content h2 {
+    margin-bottom: -5px;
+    text-shadow: 5px 5px 3px rgba(10, 51, 97, 0.514);
+    color: rgba(4, 69, 73, 0.904);
+}
+
+audio {
+    margin-top: 15px;
+    width: 260px;
+    color: rgba(0, 0, 0, 0.404);
+}
+
+.content img {
+width: 280px;
+height: 280px;
+margin: 5px 0 -10px 0;
+}
+
+.content p {
+    font-style: normal;
+    font-family: 'Schoolbell', 'Satisfy', cursive;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.content h4 {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content .isi {
+    text-align: center;
+    padding-top: 19px;
+    background-color: rgba(29, 175, 175, 0.3);
+margin: center;
+    margin-top: -10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+}
+
+/* scroll */
+.scroll {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(8, 153, 122, 0.4);
+    overflow: auto;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+  margin-left: 500px;
+    padding: 25px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* penutup */
+.penutup {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgba(29, 175, 175, 0.3);
+    width: 260px;
+    height: 90px;
+    border-radius: 55%;
+    margin: 10px 0 20px 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 25px;
+}
+
+/* penutup */
+.penutup p {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.akhir {
+    display: flex;
+}
+
+.akhir .gmbr1 img {
+    width: 150px;
+    height: 170px;
+    margin-left: 80px;
+
+}
+
+.akhir .gmbr2 img {
+    margin-top: -125px;
+    margin-left: 80px;
+}
+
+.akhir .gmbr img {
+    width: 220px;
+    height: 220px;
+    margin: -35px 0 0 60px;
+
+}
+
+.akhir .gmbr3 img {
+    width: 150px;
+    height: 150px;
+    margin: 15px 0 0 60px;
+} 
